@@ -1,0 +1,12 @@
+{
+  "name": "ci-lab",
+  "version": "1.0.0",
+  "description": "Multi-language CI testing lab",
+  "main": "stringUtils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
